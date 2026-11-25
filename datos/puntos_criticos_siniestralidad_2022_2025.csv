@@ -1,0 +1,157 @@
+capa,actor,via,id,direccion,localidad,fallecidos,lesionados,lat,lon
+PuntosCriticosMoto_ViaArterial_2225,Motociclistas,Arterial,PM_1,Av. Cl13 X K65,,3,65,4.634512410411268,-74.11481833825931
+PuntosCriticosMoto_ViaArterial_2225,Motociclistas,Arterial,PM_2,Av. Boyacá X Av. Guayacanes,,0,20,4.644837703200163,-74.13163496971985
+PuntosCriticosMoto_ViaArterial_2225,Motociclistas,Arterial,PM_3,Av. Ciudad de Cali X Av. Suba,,0,46,4.746676610117912,-74.0963533878821
+PuntosCriticosBicicleta_ViaArterial_2225,Ciclistas,Arterial,P1,Av. Villavicencio x Av. 1ro de Mayo,,0,14,4.615224270700416,-74.1625761256307
+PuntosCriticosBicicleta_ViaArterial_2225,Ciclistas,Arterial,P2,Av. Villavicencio x Calle 57B sur,,1,11,4.599581535536406,-74.16211208378539
+PuntosCriticosBicicleta_ViaArterial_2225,Ciclistas,Arterial,P3,Av. Bosa x Carrera 80,,0,18,4.609153431080528,-74.18136526455658
+PuntosCriticosBicicleta_ViaArterial_2225,Ciclistas,Arterial,P4,Calle 13 x Carrera 100,,1,12,4.669086839605095,-74.15148519347069
+PuntosCriticosBicicleta_ViaArterial_2225,Ciclistas,Arterial,P5,Carrera 24 x Av. Boyacá,,1,12,4.573109138765406,-74.13922348966395
+PuntosCriticosBicicleta_ViaArterial_2225,Ciclistas,Arterial,P6,Autopista Sur x Carrera 50,,1,11,4.593602798461911,-74.12662404064599
+PuntosCriticosBicicleta_ViaArterial_2225,Ciclistas,Arterial,P7,Av. Ciudad de Cali x Calle 26,,0,25,4.678945913594372,-74.11963589218942
+PuntosCriticosBicicleta_ViaArterial_2225,Ciclistas,Arterial,P8,Autopista Sur x Av. 1ro de Mayo,,1,13,4.59610631409006,-74.11342863410454
+PuntosCriticosBicicleta_ViaArterial_2225,Ciclistas,Arterial,P9,Calle 63 x Carrera 68,,0,14,4.666093194720293,-74.09334640776417
+PuntosCriticosBicicleta_ViaArterial_2225,Ciclistas,Arterial,P10,Carrera 33 x Av. Boyacá,,1,24,4.5801729602229,-74.14250642772946
+PuntosCriticosBicicleta_ViaArterial_2225,Ciclistas,Arterial,P11,Calle 63 x Carrera 60,,0,15,4.659471340122909,-74.0886276978041
+PuntosCriticosPeatones_ViaArterial_2225,Peatones,Arterial,A,Av. Primero de Mayo x Av. NQS,,2,26,4.581284631518972,-74.10241273768129
+PuntosCriticosPeatones_ViaArterial_2225,Peatones,Arterial,B,Av. Caracas x Calle 27 sur,,3,17,4.5791564119687305,-74.1068759339059
+PuntosCriticosPeatones_ViaArterial_2225,Peatones,Arterial,C,Av. NQS x Calle 3,,2,14,4.603377339740847,-74.10078297087756
+PuntosCriticosPeatones_ViaArterial_2225,Peatones,Arterial,D,Autopista sur x Carrera 68,,1,14,4.595050745165074,-74.13795064665041
+PuntosCriticosPeatones_ViaArterial_2225,Peatones,Arterial,E,Carrera 10 x Calle 27 sur,,1,15,4.572186733457104,-74.09805384495458
+PuntosCriticosPeatones_ViaArterial_2225,Peatones,Arterial,F,Av. Primero de Mayo x Cl. 22 bis sur,,2,15,4.56893765855299,-74.08571866892211
+PuntosCriticosPeatones_ViaArterial_2225,Peatones,Arterial,G,Carrera 80 x Av. Américas,,2,35,4.631762639244814,-74.15454046401499
+PuntosCriticosPeatones_ViaArterial_2225,Peatones,Arterial,H,Av. Américas x Carrera 69B,,4,13,4.629615264013872,-74.12843374176174
+PuntosCriticosPeatones_ViaArterial_2225,Peatones,Arterial,I,Av. Ciudad de Cali x Av. Suba,,2,18,4.746739512730954,-74.09625725224265
+PuntosCriticosPeatones_ViaArterial_2225,Peatones,Arterial,J,Carrera 7 x Calle 163A,,1,17,4.738226819755391,-74.02281307388868
+PuntosCriticosVulnerables_ViaArterial_2225,Todos los vulnerables,Arterial,P18,Av. Bosa x Carrera 78,,1,41,4.601810072204005,-74.17882361577071
+PuntosCriticosVulnerables_ViaArterial_2225,Todos los vulnerables,Arterial,P4,Av. Boyacá X Calle 13,,4,73,4.649208027939367,-74.12666850163102
+PuntosCriticosVulnerables_ViaArterial_2225,Todos los vulnerables,Arterial,P6,Av. 1ro de Mayo X Av. Villavicencio,,4,71,4.6151984970758235,-74.1626129525959
+PuntosCriticosVulnerables_ViaArterial_2225,Todos los vulnerables,Arterial,P3,Autopista Sur X Av. Villavicencio,,3,78,4.595891634198565,-74.16198536530491
+PuntosCriticosVulnerables_ViaArterial_2225,Todos los vulnerables,Arterial,P20,Av. Guayacanes X Calle 6A,,1,36,4.64711985514693,-74.15882178393693
+PuntosCriticosVulnerables_ViaArterial_2225,Todos los vulnerables,Arterial,P1,Av. Boyacá X Carrera 24,,3,101,4.573149245255927,-74.13953415969274
+PuntosCriticosVulnerables_ViaArterial_2225,Todos los vulnerables,Arterial,P15,Av. Boyacá X Calle 65 sur,,4,51,4.55364348766093,-74.13695170522215
+PuntosCriticosVulnerables_ViaArterial_2225,Todos los vulnerables,Arterial,P10,Av. Ciudad de Cali X Calle 13,,5,61,4.659381412686998,-74.13588531187621
+PuntosCriticosVulnerables_ViaArterial_2225,Todos los vulnerables,Arterial,P9,Av. Boyacá X Av. Guayacanes,,1,67,4.6449999544636755,-74.1317637669614
+PuntosCriticosVulnerables_ViaArterial_2225,Todos los vulnerables,Arterial,P11,Autopista Sur X Av. Boyacá,,3,63,4.59527560060848,-74.1454083303061
+PuntosCriticosVulnerables_ViaArterial_2225,Todos los vulnerables,Arterial,P5,Calle 80 X Puente de Guadua,,7,70,4.727530959137803,-74.12578014280444
+PuntosCriticosVulnerables_ViaArterial_2225,Todos los vulnerables,Arterial,P8,Calle 80 X Carrera 114,,6,67,4.721640900283164,-74.12109378700976
+PuntosCriticosVulnerables_ViaArterial_2225,Todos los vulnerables,Arterial,P12,Transversal X Calle 4A,,3,62,4.616314499230004,-74.11112406619729
+PuntosCriticosVulnerables_ViaArterial_2225,Todos los vulnerables,Arterial,P13,Autopista Sur X Carrera 68,,3,61,4.595181609572081,-74.13786766507425
+PuntosCriticosVulnerables_ViaArterial_2225,Todos los vulnerables,Arterial,P14,Av. Boyacá X Calle 80,,6,58,4.695443285548854,-74.08906913601324
+PuntosCriticosVulnerables_ViaArterial_2225,Todos los vulnerables,Arterial,P2,Av. Suba X Av. Ciudad de Cali,,2,88,4.746571073828456,-74.09625438579567
+PuntosCriticosVulnerables_ViaArterial_2225,Todos los vulnerables,Arterial,P19,Av. Ciudad de Cali X Carrera 93,,2,39,4.719943666417412,-74.09470846516858
+PuntosCriticosVulnerables_ViaArterial_2225,Todos los vulnerables,Arterial,P17,Av. Ciudad de Cali X Carrera 91,,3,40,4.717158854711798,-74.09284667323487
+PuntosCriticosVulnerables_ViaArterial_2225,Todos los vulnerables,Arterial,P7,Carrera 9 X Calle 153,,1,73,4.7311438643975166,-74.03206767429131
+PuntosCriticosVulnerables_ViaArterial_2225,Todos los vulnerables,Arterial,P16,Carrera 7 X Calle 32,,2,50,4.618713538004039,-74.06821807995544
+PuntosCriticosVulnerables_ViaArterial_2225,Todos los vulnerables,Arterial,P21,Calle 32 X Carrera 13,,0,23,4.617841256578185,-74.06881180776982
+PuntosCriticosBicicleta_Local_2225,Ciclistas,Local,AA,Carrera 95A x Calle 63 sur,Bosa,0,7,4.633169137236546,-74.19799747372214
+PuntosCriticosBicicleta_Local_2225,Ciclistas,Local,BB,Calle 63 sur x Carrera 79C,Bosa,0,5,4.6066853149524265,-74.18317481856809
+PuntosCriticosBicicleta_Local_2225,Ciclistas,Local,CC,Calle 65 sur x Carrera 81,Bosa,0,6,4.610595822528343,-74.1867551207168
+PuntosCriticosBicicleta_Local_2225,Ciclistas,Local,DD,Calle 51 sur x Carrera 87D,Bosa,1,4,4.628216846419051,-74.18000427481763
+PuntosCriticosBicicleta_Local_2225,Ciclistas,Local,EE,Calle 53 sur x Carrera 87,Bosa,0,5,4.62593194216328,-74.18035012940207
+PuntosCriticosBicicleta_Local_2225,Ciclistas,Local,FF,Calle 42F sur x Carrera 91,Kennedy,0,7,4.639210933241105,-74.17455928041132
+PuntosCriticosBicicleta_Local_2225,Ciclistas,Local,GG,Calle 26 sur x Carrera 95A,Kennedy,0,5,4.648961944008543,-74.1687202462443
+PuntosCriticosBicicleta_Local_2225,Ciclistas,Local,HH,Calle 42A sur x Carrera 86B,Kennedy,0,5,4.631247527387236,-74.16837478066887
+PuntosCriticosBicicleta_Local_2225,Ciclistas,Local,II,Calle 15 x Carrera 123,Fontibón,0,6,4.683107143151368,-74.1649807032151
+PuntosCriticosBicicleta_Local_2225,Ciclistas,Local,JJ,Calle 6D x Carrera 92,Kennedy,0,6,4.651851237012908,-74.15871462721978
+PuntosCriticosBicicleta_Local_2225,Ciclistas,Local,KK,Diagonal 15A x Carrera 106,Fontibón,0,6,4.6710785855780745,-74.15586341438002
+PuntosCriticosBicicleta_Local_2225,Ciclistas,Local,LL,Calle 17s ur x Carrera 8,San Cristóbal,1,6,4.577059577442132,-74.09076061218295
+PuntosCriticosBicicleta_Local_2225,Ciclistas,Local,MM,Carrera 111 x Calle 171,Suba,0,6,4.771064721524195,-74.08262091736928
+PuntosCriticosBicicleta_Local_2225,Ciclistas,Local,NN,Carrera 129 x Calle 139,Suba,1,5,4.746202167019201,-74.11127934476927
+PuntosCriticosBicicleta_Local_2225,Ciclistas,Local,OO,Calle 142A x Carrera 113C,Suba,0,7,4.747335139029617,-74.10387083056858
+PuntosCriticosBicicleta_Local_2225,Ciclistas,Local,PP,Calle 9 x Carrera 7 este,Santa Fe,0,12,4.58826611643752,-74.06620102285851
+PuntosCriticosPeatones_Local_2225,Peatones,Local,AA,Calle 65 sur x Carrera 80C,Bosa,1,12,4.608000000198113,-74.18499999986258
+PuntosCriticosPeatones_Local_2225,Peatones,Local,BB,Carrera 88C x Calle 54 sur,Bosa,0,6,4.6294887195742485,-74.18357638277594
+PuntosCriticosPeatones_Local_2225,Peatones,Local,CC,Calle 47 sur x Carrera 6 este,San Cristóbal,0,11,4.542366686197133,-74.09335538926204
+PuntosCriticosPeatones_Local_2225,Peatones,Local,DD,Carrera 1A x Calle 41 sur,San Cristóbal,1,8,4.551618692548552,-74.09835304475263
+PuntosCriticosPeatones_Local_2225,Peatones,Local,FF,Calle 15 x Carrera 9,Santa Fe,0,7,4.602930509128211,-74.0750521800817
+PuntosCriticosPeatones_Local_2225,Peatones,Local,GG,Diagonal 71B sur x Transversal 18J,Ciudad Bolívar,1,9,4.546812815107489,-74.14975249467874
+PuntosCriticosPeatones_Local_2225,Peatones,Local,HH,Calle 17 x Carrera 100,Fontibón,0,8,4.672972653706739,-74.14596234231166
+PuntosCriticosPeatones_Local_2225,Peatones,Local,II,Carrera 13 x Calle 67,Chapinero,0,5,4.6537516886648405,-74.06283947421782
+PuntosCriticosPeatones_Local_2225,Peatones,Local,KK,Carrera 11 x Calle 140,Usaquén,0,7,4.718875333028155,-74.03527058463067
+PuntosCriticosPeatones_Local_2225,Peatones,Local,LL,Calle 132D x Calle 153,Suba,1,6,4.742785683608501,-74.12361791158892
+PuntosCriticosPeatones_Local_2225,Peatones,Local,MM,Carrera 78K x Calle 37 sur,Kennedy,0,6,4.624059094450251,-74.15337914829757
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,B_K94B,K94B X Cl61A sur,,0,8,4.632685295016368,-74.19595459595996
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,K_91,K91 X Cl91,,0,13,4.639203804009273,-74.17455681723104
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,K_Cl49,Cl49 sur X K89,,2,12,4.6336422905006165,-74.17949323985268
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,B_K88C,K88C X Cl59 sur,,0,10,4.626214898329582,-74.1908305743354
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,B_Cl62,Cl62 sur X K85B,,0,3,4.618292573468927,-74.1888187541833
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,K_K78G,K78G X Cl45 sur,,0,7,4.61371526467803,-74.16406299143509
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,K_K78,K78 X Cl42 sur,,0,7,4.613211485366396,-74.15811899907348
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,K_Cl45,Cl45 sur X K74,,0,10,4.607885392525754,-74.16094397279498
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,K_Cl39B,Cl39B sur X K72J,,0,9,4.6088867282004,-74.14667186473243
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,PA_Cl2C,Cl2C X K60,,0,20,4.620360855863074,-74.12195361523237
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,PA_Cl4F,Cl4F X K43C,,0,10,4.618241133705808,-74.11163308665306
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,PA_K65,K65 X Cl11,,0,6,4.631979781399323,-74.11685815176145
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,PA_Cl17A,Cl17A X K42 bis,,0,6,4.624192223829781,-74.09772816254768
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,S_K13,K13 X Cl10,,0,2,4.600788452548057,-74.08115721590895
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,C_K5,K5 X Cl12,,0,13,4.598026383235484,-74.07301061499317
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,S_Cl9,Cl9 X K7E,,0,19,4.588237795363463,-74.06621041634519
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,SC_Cl31C,Cl31C sur X K3A este,,0,10,4.559239373281939,-74.09130834960479
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,SC_K3B,K3B X Cl32 sur,,0,8,4.56202910613214,-74.09663723456745
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,RU_K10,K10 X Cl36 sur,,0,7,4.565325488812533,-74.10404600358304
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,SC_Cl31,Cl31 sur X K7A,,0,12,4.5665141800933835,-74.09924895173202
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,RU_Cl43,Cl43 sur X K10,,0,4,4.563480133098143,-74.10825346051013
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,RU_K5,K5 X Cl48N sur,,0,7,4.55266069736177,-74.10823547087415
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,CB_K20C,K20C X Dg62 sur,,0,3,4.564746688207585,-74.14297473702241
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,TU_Dg49,Dg49 sur X K52C,,0,16,4.591298708348173,-74.13723143737131
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,TU_Tv44,Tv44 X Cl50A sur,,0,10,4.589990575810888,-74.13797130575408
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,K_Cl10,Cl10 X K89 bis,,0,16,4.653286981116603,-74.1515036358923
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,K_Cl6D,Cl6D X K87A,,0,4,4.6455935530156935,-74.15489621661037
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,K_K87C,K87C X Cl33A sur,,0,13,4.638958733432773,-74.16201045123121
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,K_Cl26,Cl26 sur X K78K,,0,9,4.627625538079166,-74.15010967017808
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,K_Cl13,Cl13 X K81B,,0,7,4.651754793989022,-74.13935581051271
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,F_K109,K209 X Cl23G,,0,11,4.6865919241977165,-74.14194798635528
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,E_K101,K101 X Cl83,,0,13,4.714865927061556,-74.10862513154188
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,S_K91,K91 X Cl127C,,0,0,4.71839987924352,-74.09115013886064
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,TE_Cl50,Cl50 X K17,,0,23,4.637969628617422,-74.06981625485686
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,TE_Cl33,Cl33 X K17,,2,6,4.6217518920999625,-74.07252852519973
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,SC_Cl19,Cl19 sur X K10 este,,0,8,4.570313477569539,-74.08235409045832
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,RU_Cl27,Cl27 sur X K18,,0,6,4.580309686580267,-74.10753217529309
+PuntosCriticosMoto_Local_2225,Motociclistas,Local,K_91A,K91A X Cl42F sur,,0,2,4.639466038223083,-74.1747011283179
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P38,Carrera 89 x Calle 40 sur,Kennedy,2,12,4.633648608913852,-74.1794806504374
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P32,Carrera 87 x Calle 53 sur,Bosa,1,14,4.62593568516254,-74.18034968563565
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P18,Carrera 88C x Calle 59 sur,Bosa,0,18,4.6262822835411646,-74.19083214417671
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P13,Carrera 80C x Calle 65 sur,Bosa,1,18,4.607980559018588,-74.18499027922431
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P24,Carrera 77J x Calle 65G sur,Bosa,1,15,4.598336900898041,-74.18473509726824
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P33,Carrera 111 x Calle 171,Suba,2,12,4.771065825661123,-74.08262380461899
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P39,Carrera 81 x Calle 127A,Suba,0,13,4.71126928159262,-74.08287258807087
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P6,Carrera 91 x Calle 90,Engativá,0,21,4.713082548151126,-74.09777104890357
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P25,Carrera 101 x Calle 83,Engativá,0,15,4.71485045349579,-74.10864423936492
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P40,Carrera 104 x Calle 75C,Engativá,0,13,4.708757051240398,-74.11741049804938
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P41,Carrera 77A x Calle 71A,Engativá,0,13,4.69022163987863,-74.10053839632516
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P42,Carrera 109 x Calle 23G,Fontibon,0,13,4.686597888423897,-74.14195439880768
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P26,Carrera 123 x Calle 14B,Fontibon,1,14,4.681892802090404,-74.16666595937534
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P5,Carrera 51 x Transversal 55,Barrios Unidos,1,24,4.666483064614019,-74.0763094803464
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P19,Carrera 17 x Calle 67,Barrios Unidos,1,16,4.655752615134818,-74.06607353495367
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P34,Carrera 17 x Calle 61,Teusaquillo,0,14,4.648475466912391,-74.06791247071858
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P14,Carrera 17 x Calle 59,Teusaquillo,0,18,4.646753701756651,-74.06825748921071
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P3,Carrera 17 x Calle 50,Teusaquillo,0,30,4.637989288423149,-74.06982583489727
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P15,Carrera 65 x Calle 11,Puente Aranda,1,17,4.63196736224891,-74.11686283391248
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P7,Carrera 60 x Calle 2C,Puente Aranda,0,21,4.620364682999446,-74.12195209600668
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P43,Carrera 90 x Calle 6A,Kennedy,0,13,4.648267208144768,-74.15968557831982
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P9,Carrera 88D x Calle 6A,Kennedy,0,19,4.646048840158753,-74.15802839542549
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P1,Carrera 88 x Calle 6A,Kennedy,0,44,4.645330481754812,-74.15748580336361
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P10,Calle 6 x Transversal 80G,Kennedy,1,18,4.6362204556452085,-74.15298456984969
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P44,Carrera 78K x Calle 26 sur,Kennedy,1,12,4.627561595840095,-74.15013915921207
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P35,Carrera 78K x Calle 37 sur,Kennedy,0,14,4.624039314610183,-74.15335264737661
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P27,Carrera 73 x Calle 40 sur,Kennedy,0,15,4.613959326548289,-74.15080784673641
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P45,Carrera 72J x Calle 39B sur,Kennedy,0,13,4.608863355710045,-74.14665937982288
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P16,Carrera 52C x Diagonal 49 sur,Tunjuelito,0,18,4.591294106692039,-74.1372268805852
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P21,Carrera 5 x Calle 12,Candelaria,1,15,4.598037169044827,-74.0730250007228
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P2,Carrera 7 este x Calle 9,Santa Fe,0,32,4.588286694029209,-74.06620020155609
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P28,Carrera 3 x Calle 1C,Santa Fe,0,15,4.58512576850892,-74.07752621570089
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P8,Carrera 7 x Calle 7 sur,San Cristobal,0,21,4.581932187239427,-74.08468226704069
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P11,Carrera 7 x Calle 8 sur,San Cristobal,0,19,4.581097476607555,-74.08523587220965
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P46,Carrera 10 este x Calle 19 sur,San Cristobal,0,13,4.570454655045049,-74.08236405284897
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P36,Carrera 8 x Calle 17 sur,San Cristobal,1,13,4.577048237536882,-74.09075183457846
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P17,Carrera 7 x Calle 27 sur,San Cristobal,0,18,4.569835713414776,-74.09529321555097
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P37,Carrera 7A x Calle 31 sur,San Cristobal,0,14,4.566511858262184,-74.09926420824688
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P29,Carrera 3A este x Calle 31C sur,San Cristobal,0,15,4.559256177802929,-74.0913244858779
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P4,Carrera 1A x Diagonal 41 sur,San Cristobal,1,28,4.551645388949379,-74.09837735462727
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P12,Carrera 1A x Calle 43 sur,San Cristobal,1,18,4.54962651068366,-74.10023709114246
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P30,Carrera 17 x Calle 19 sur,Antonio Nariño,1,14,4.583800372478041,-74.10167750912787
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P22,Diagonal 71B sur x Transversal 18I,Ciudad Bolivar,1,15,4.546811208266751,-74.1497512870023
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P20,Carrera 91 x Calle 42F sur,Kennedy,0,17,4.639210565193016,-74.17455923980495
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P31,Carrera 95A X Calle 52 sur,Bosa,1,14,4.638803922211549,-74.1860424039792
+PuntosCriticosVulnerables_Local_2225,Todos los vulnerables,Local,P23,Carrera 95A x Calle 54 sur,Bosa,3,13,4.637903403485488,-74.18781793370506
